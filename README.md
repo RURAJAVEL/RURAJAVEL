@@ -12,6 +12,10 @@
 <a href="https://www.linkedin.com/in/rurajavel"><img src="https://img.shields.io/badge/LinkedIn-rurajavel-0F172A?style=for-the-badge&labelColor=1E293B" /></a>
 <a href="mailto:raja@apyrn.com"><img src="https://img.shields.io/badge/Email-raja%40apyrn.com-0F172A?style=for-the-badge&labelColor=1E293B" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RURAJAVEL&label=Profile%20Views&color=1E293B&style=flat" alt="profile views" />
+
 </div>
 
 <br/>
@@ -41,6 +45,10 @@ const focus = {
 ### 🏛️ Apyrn Platform
 **Enterprise integration & AI enablement**
 
+<details>
+<summary><b>View details</b></summary>
+<br/>
+
 Canonical data models and composite APIs that unify enterprise systems:
 
 - Enterprise Integrations
@@ -49,11 +57,17 @@ Canonical data models and composite APIs that unify enterprise systems:
 - Inventory360 · Product360 · Order360
 - Enterprise AI Enablement
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ Apyrn Forge
 **OpenAPI → SDK → MCP, automated**
+
+<details>
+<summary><b>View details</b></summary>
+<br/>
 
 Turns existing API contracts into modern, agent-ready interfaces:
 
@@ -61,6 +75,8 @@ Turns existing API contracts into modern, agent-ready interfaces:
 - MCP Server Generation
 - OpenAPI Automation
 - API Modernization
+
+</details>
 
 </td>
 </tr>
@@ -70,6 +86,10 @@ Turns existing API contracts into modern, agent-ready interfaces:
 ### 🔁 Apyrn Relay
 **Enterprise webhook reliability**
 
+<details>
+<summary><b>View details</b></summary>
+<br/>
+
 Delivery infrastructure built for systems that can't afford to miss an event:
 
 - Retry & Replay
@@ -77,11 +97,17 @@ Delivery infrastructure built for systems that can't afford to miss an event:
 - Signature Verification
 - Operator Console
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Apyrn Vault
 **AI agent security**
+
+<details>
+<summary><b>View details</b></summary>
+<br/>
 
 Security tooling for the agentic layer of the enterprise stack:
 
@@ -89,6 +115,8 @@ Security tooling for the agentic layer of the enterprise stack:
 - OAuth Health Checks
 - Secret Detection
 - MCP Security
+
+</details>
 
 </td>
 </tr>
@@ -137,52 +165,51 @@ timeline
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
+<div align="center">
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat-square&logo=nestjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=openjdk)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat-square&logo=dotnet)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,java,dotnet,py" />
 
-</td>
-<td valign="top" width="25%">
+<br/><br/>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat-square&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat-square&logo=angular)
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
 
-</td>
-<td valign="top" width="25%">
+<br/><br/>
 
 **Data**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 
-</td>
-<td valign="top" width="25%">
+<br/><br/>
 
-**Cloud & AI**
+**Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazonaws)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat-square&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat-square&logo=kubernetes)
-![Anthropic](https://img.shields.io/badge/-Anthropic-333333?style=flat-square&logo=anthropic)
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat-square&logo=langchain)
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+**AI**
+
+<img src="https://skillicons.dev/icons?i=openai,py,githubactions" />
+
+</div>
+
+<details>
+<summary><b>See full stack breakdown as text</b></summary>
+<br/>
+
+| Layer | Technologies |
+|---|---|
+| Backend | Node.js, NestJS, TypeScript, Java, .NET, Python |
+| Frontend | React, Next.js, Angular |
+| Data | PostgreSQL, Redis, MongoDB |
+| Cloud | AWS, Azure, Docker, Kubernetes |
+| AI | OpenAI, Anthropic, MCP, LangChain, LLMs |
+
+</details>
 
 <br/>
 
@@ -210,6 +237,24 @@ timeline
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RURAJAVEL&hide_border=true&bg_color=00000000&color=0F172A&line=1E293B&point=0F172A" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RURAJAVEL&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Repositories" />
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/RURAJAVEL/RURAJAVEL/output/snake-dark.svg" alt="contribution snake animation" />
+<!--END_SECTION:snake-->
+
+<sub>Auto-generated daily from contribution activity — see setup note below</sub>
 
 </div>
 
