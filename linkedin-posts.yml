@@ -1,0 +1,25 @@
+name: Update LinkedIn posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Set this under Settings → Secrets and variables → Actions → Variables
+          feed_list: ${{ vars.LINKEDIN_RSS_URL }}
+          comment_tag_name: LINKEDIN
+          max_post_count: 5
+          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update latest LinkedIn posts"
