@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://apyrn.com"><img alt="Website: apyrn.com" src="https://img.shields.io/badge/apyrn.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=F8FAFC&labelColor=1E293B" /></a>
-<a href="https://www.linkedin.com/in/rurajavel"><img alt="LinkedIn: rurajavel" src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=1E293B" /></a>
+<a href="https://www.linkedin.com/in/rurajavel"><img alt="LinkedIn: rurajavel" src="https://img.shields.io/badge/LinkedIn-rurajavel-0F172A?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=1E293B" /></a>
 <a href="mailto:raja@apyrn.com"><img alt="Email: raja@apyrn.com" src="https://img.shields.io/badge/raja%40apyrn.com-0F172A?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=1E293B" /></a>
 
 <br/>
@@ -18,6 +18,7 @@
 <a href="#career-journey">Career</a> •
 <a href="#tech-stack">Tech Stack</a> •
 <a href="#roadmap">Roadmap</a> •
+<a href="#latest-on-linkedin">LinkedIn</a> •
 <a href="#github-activity">Activity</a> •
 <a href="#lets-talk">Contact</a>
 </sub>
@@ -148,6 +149,18 @@ timeline
 | 🛠️ In progress | Enterprise-grade Composite APIs |
 | 🧭 Planned | AI Agent Platforms with governed security |
 | 🧭 Planned | Integration Reliability at scale |
+
+<br/>
+
+## Latest on LinkedIn
+
+<!-- LINKEDIN:START -->
+- [Add the title of a recent LinkedIn post here](https://www.linkedin.com/in/rurajavel/recent-activity/all/)
+- [Add another post title here](https://www.linkedin.com/in/rurajavel/recent-activity/all/)
+- [And one more](https://www.linkedin.com/in/rurajavel/recent-activity/all/)
+<!-- LINKEDIN:END -->
+
+<a href="https://www.linkedin.com/in/rurajavel/recent-activity/all/"><img alt="See all my LinkedIn activity" src="https://img.shields.io/badge/See%20all%20activity%20on%20LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=F8FAFC&labelColor=1E293B" /></a>
 
 <br/>
 
